@@ -1,0 +1,9 @@
+Account Created
+Account Number: 1112
+USER ID- r: samiksha_29
+Account Holder Name: Samiksha Suryawanshi
+PIN 2222
+Balance 1000.0
+Date Thu Jun 20 17:16:55 IST 2024
+
+
